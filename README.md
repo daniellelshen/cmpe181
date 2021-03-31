@@ -4,9 +4,11 @@ Work completed by Danielle based on Professor Kaikai's class code
 
 
 ## Homework 1: Option1 - Perform IoT data collection
-I found myself stuck in Option2 so I tried Option1 
+I found myself stuck in Option2 so I also did Option1 
 
 - Option1 files are titled with "my" such as "myCMPE-BigQuery-COVID19"
+- I used a different data source from the public BigQuery hosted by Google 
+- File that holds the new data source: myCMPE-BigQuery ItalyCOVID.ipynb
 
 ## Homework 1: Option2 - Perform IoT data collection
 Homework one files are located in cmpe181/hw1
