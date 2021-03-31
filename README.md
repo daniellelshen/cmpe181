@@ -5,6 +5,7 @@ Work completed by Danielle based on Professor Kaikai's class code
 
 ## Homework 1: Option1 - Perform IoT data collection
 I found myself stuck in Option2 so I tried Option1 
+
 - Option1 files are titled with "my" such as "myCMPE-BigQuery-COVID19"
 
 ## Homework 1: Option2 - Perform IoT data collection
@@ -22,6 +23,6 @@ Unable to complete Option 2 because an erro
 "Exceeded maximum backoff time. Giving up."
 
 - error occurs when path is /content/filename
-Unable to figure out how to get the connection to completely pass though
+- Unable to figure out how to get the connection to completely pass though
 
 Read comments in "hw1/181hw1CMPE-GoogleIoTdata.ipynb" for further error debugging notes
