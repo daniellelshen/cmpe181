@@ -19,7 +19,7 @@ Following instructions from Lecture 10 and Lecture 11 to create Google Cloud Reg
 
 Comments made in text form in the "181hw1CMPE-GoogleIoTdata.ipynb" file
 
-Unable to complete Option 2 because an erro
+Unable to complete Option 2 because an error 
 "Exceeded maximum backoff time. Giving up."
 
 - error occurs when path is /content/filename
