@@ -13,7 +13,10 @@ I found myself stuck in Option2 so I also did Option1
 ### Completed: 
 - BigQuery set up 
 - Collecting Google Collab and Big Query 
-- Connecting a new database (COVID data from Italy) 
+- Connecting a new database (COVID data from Italy [bigquery-public-data:covid19_italy]) 
+- ![image](https://user-images.githubusercontent.com/48109463/113222843-b8bcb500-923c-11eb-963e-84185f69ee51.png)
+- I was unable to access marketplace so I copied my desired dataset into a dataset in my project 'cmpe181hw1option1'
+- ![image](https://user-images.githubusercontent.com/48109463/113222809-a5a9e500-923c-11eb-8095-8f0bde82daa4.png)
 - Analyzing data from new database
 - Linear Regression model used 
 
