@@ -10,6 +10,13 @@ I found myself stuck in Option2 so I also did Option1
 - I used a different data source from the public BigQuery hosted by Google 
 - File that holds the new data source: myCMPE-BigQuery ItalyCOVID.ipynb
 
+### Completed: 
+- BigQuery set up 
+- Collecting Google Collab and Big Query 
+- Connecting a new database (COVID data from Italy) 
+- Analyzing data from new database
+- Linear Regression model used 
+
 ## Homework 1: Option2 - Perform IoT data collection
 Homework one files are located in cmpe181/hw1
 
@@ -21,6 +28,12 @@ Following instructions from Lecture 10 and Lecture 11 to create Google Cloud Reg
 
 Comments made in text form in the "181hw1CMPE-GoogleIoTdata.ipynb" file
 
+### Completed: 
+- Setting up Google Cloud Console 
+- Setting up the Google Client 
+- Mount Google Drive 
+- Connect Google Cloud storage 
+### Uncompleted: 
 Unable to complete Option 2 because an error 
 "Exceeded maximum backoff time. Giving up."
 
