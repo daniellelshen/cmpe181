@@ -14,10 +14,14 @@ IoT device (any PC/Mac/Linux/Pi/VM) sending data to Big Query
 - Change the IoT data, select your own IoT data
 - Get IoT sensor data (e.g., temperature) or dataset from csv/json file
 
-Unable to complete Option 2 because an erro
-"Exceeded maximum backoff time. Giving up."
-^^ error occurs when path is /content/filename
-
 Following instructions from Lecture 10 and Lecture 11 to create Google Cloud Registry and Device and connect the device to recieve data
 
 Comments made in text form in the "181hw1CMPE-GoogleIoTdata.ipynb" file
+
+Unable to complete Option 2 because an erro
+"Exceeded maximum backoff time. Giving up."
+
+- error occurs when path is /content/filename
+Unable to figure out how to get the connection to completely pass though
+
+Read comments in "hw1/181hw1CMPE-GoogleIoTdata.ipynb" for further error debugging notes
