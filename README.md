@@ -44,3 +44,19 @@ Unable to complete Option 2 because an error
 - Unable to figure out how to get the connection to completely pass though
 
 Read comments in "hw1/181hw1CMPE-GoogleIoTdata.ipynb" for further error debugging notes
+
+
+## Homework 2: Topic 2 - Kaggle Data 
+Chose Topic 1, Option 1
+
+### Completed: 
+- Setting up Google Colab
+- Setting up Kaggle 
+- Mount Google Drive 
+- access kaggle dataset 
+- upzip kaggle dataset 
+### Uncompleted: 
+- Extracting train.csv 
+- testing
+
+The datasets that I chose with kaggle didn't have the train.csv 
