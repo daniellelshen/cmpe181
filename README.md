@@ -5,6 +5,7 @@ Work completed by Danielle based on Professor Kaikai's class code
 
 ## Homework 1: Option1 - Perform IoT data collection
 I found myself stuck in Option2 so I also did Option1 
+[Option 1](https://github.com/daniellelshen/cmpe181/tree/main/hw1)
 
 - Option1 files are titled with "my" such as "myCMPE-BigQuery-COVID19"
 - I used a different data source from the public BigQuery hosted by Google 
@@ -47,7 +48,7 @@ Read comments in "hw1/181hw1CMPE-GoogleIoTdata.ipynb" for further error debuggin
 
 
 ## Homework 2: Topic 2 - Kaggle Data 
-Chose Topic 1, Option 1
+[chose Topic 1, Option 1](https://github.com/daniellelshen/cmpe181/tree/main/hw2)
 
 ### Completed: 
 - Setting up Google Colab
